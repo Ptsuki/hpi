@@ -1,0 +1,10 @@
+{
+	"extensionName": {
+		"message": "ohi · Minimalist Başlangıç Sayfası",
+		"description": "uzantı adı"
+	},
+	"extensionDesc": {
+		"message": "özelleştirilebilir ve hafif bir ana sayfa olan ohi ile web tarama deneyiminizi geliştirin.",
+		"description": "uzantı açıklaması"
+	}
+}

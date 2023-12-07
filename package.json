@@ -1,0 +1,44 @@
+{
+	"name": "bonjourr",
+	"version": "1.18.4",
+	"description": "Improve your web browsing experience with Bonjourr, a beautiful, customizable and lightweight homepage.",
+	"scripts": {
+		"edge": "gulp edge",
+		"chrome": "gulp chrome",
+		"firefox": "gulp firefox",
+		"safari": "gulp safari",
+		"online": "gulp online",
+		"build": "gulp build"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"type": "module",
+	"devDependencies": {
+		"@types/chrome": "^0.0.217",
+		"@types/gulp": "^4.0.17",
+		"@types/gulp-rename": "^2.0.5",
+		"@types/gulp-sass": "^5.0.4",
+		"deepmerge": "^4.3.1",
+		"esbuild": "^0.18.20",
+		"gulp": "^4.0.2",
+		"gulp-htmlmin": "^5.0.1",
+		"gulp-rename": "^2.0.0",
+		"gulp-replace": "^1.1.4",
+		"gulp-sass": "^5.1.0",
+		"idb-keyval": "^6.2.1",
+		"pocket-editor": "^1.10.0",
+		"sass": "^1.69.5",
+		"typescript": "^5.2.2",
+		"user-agent-data-types": "^0.3.1",
+		"web-ext-types": "^3.2.1"
+	},
+	"pnpm": {
+		"overrides": {
+			"micromatch": "^4.0.5",
+			"fsevents": "^2.3.2",
+			"chokidar": "^3.5.3",
+			"glob-parent": "^6.0.2"
+		}
+	}
+}

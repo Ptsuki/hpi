@@ -1,0 +1,10 @@
+{
+	"extensionName": {
+		"message": "ohi · Minimalist Startpage",
+		"description": "extension name"
+	},
+	"extensionDesc": {
+		"message": "Improve your web browsing experience with ohi, a beautiful, customizable and lightweight homepage.",
+		"description": "extension description"
+	}
+}

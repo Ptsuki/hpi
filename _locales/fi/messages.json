@@ -1,0 +1,10 @@
+{
+	"extensionName": {
+		"message": "ohi · Minimalistinen Aloitussivu",
+		"description": "laajennuksen nimi"
+	},
+	"extensionDesc": {
+		"message": "Paranna sinun web-selauskokemustasi ohiin avulla, kaunis, muokattava ja kevyt aloitussivu.",
+		"description": "laajennuksen kuvaus"
+	}
+}
